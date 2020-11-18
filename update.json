@@ -1,0 +1,25 @@
+lastVersion{28}
+changelog{- Rebased over N950FXXSDDTJ1
+    - Security patch 01/10/2020
+    - Updated S8+/S8 files [DTJ1]
+    - Updated DeluxeKernel_v16.3
+    - Updated modded weather app
+    - Updated modded TouchWiz app
+    - Updated Magisk
+    - Updated WebView
+    - Updated chinese SmartManager
+    - Remade all mods from scratch
+    - Dual bar on-the-fly (No more ZIPs)
+    - Optimized remap mod (60~% less of code)
+    - Optimized all mods to waste less resources
+    - Fixed biometric on reboot mod issues
+    - Fixed WiFi/Data icon change
+    - Fixed notifications transparency (even with custom color)
+    - Fixed missing TW transition
+    - Separated all views into individual preferences
+    - Added back switchable SELinux (enforcing by default)
+    - Added status bar notification colors
+    - Added panel carrier customization
+    - Added analog clock to status bar
+    - Added possibility to use transparent panel (notifs. included)
+    - Added DRC updates to get quick-fixes (Typos, non-translated words, force-closes, etc…)}
