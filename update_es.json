@@ -1,25 +1,16 @@
-lastVersion{28}
-changelog{- Rebasada sobre N950FXXSDDTJ1
-    - Parche de seguridad 01/10/2020
-    - Actualizados archivos de S8+/S8 [DTJ1]
-    - Actualizado DeluxeKernel_v16.3
-    - Actualizada app modificada de TW
-    - Actualizada app modificada de clima
-    - Actualizado Magisk
-    - Actualizado WebView
-    - Actualizado SmartManager chino
-    - Rediseñados todos los mods
-    - Barra de estado doble sin necesidad de ZIPs
-    - Optimizado mod de remapeo (60~% menos de código)
-    - Optimizados todos los mods para mejor consumo
-    - Arreglado mod de biometricos al reiniciar
-    - Arreglado cambio de icono WiFi/Datos
-    - Arreglada transparencia de notifs.
-    - Arregladas transiciones TW
-    - Separadas todas las vistas en preferencias individuales
-    - Añadido de vuelta SELinux opcional (enforcing por defecto)
-    - Añadidos colores de iconos ded notifs.
-    - Añadida personalización de texto de operadora en panel
-    - Añadido reloj analogico en barra de estado
-    - Añadida posibilidad de usar panel transparente (notifs. incluidas)
-    - Añadidas actualizaciones automaticas de DRC}
+lastVersion{28.1}
+changelog{- Actualizado DeluxeKernel_v16.4
+- Actualizado BusyBox 1.31.1
+- Actualizado Magisk Manager 8.0.3
+- Arreglado facewidget de clima
+- Arreglado Magisk en instalaciones limpias
+- Arreglado tamaño de velocímetro de red
+- Arreglado tamaño de texto de operadora
+- Arreglado reseteo/restauración en DRC
+- Arreglada opción de carga rápida
+- Arreglado FC en DRC al usar RTL
+- Correciones en DRC (traducciones/FCs)
+- Actualizado DRC 2.1.5
+- Añadidas actualizaciones de ROM en DRC
+- Añadidas actualizaciones de kernel en DRC
+- Añadidas actualizaciones de BL/CP en DRC}
