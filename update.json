@@ -1,16 +1,8 @@
-lastVersion{28.1}
-changelog{- Updated DeluxeKernel_v16.4
-- Updated BusyBox 1.31.1
-- Updated Magisk Manager 8.0.3
-- Fixed weather facewidget
-- Fixed Magisk on clean installs
-- Fixed lockscreen speedmetter size
-- Fixed notif. panel carrier size
-- Fixed some typos and FCs on DRC
-- Fixed DRC restoring/resetting
-- Fixed fast charging switch
-- Fixed FC on DRC while using RTL
-- Updated DRC to 2.1.5
-- Added ROM updates on DRC
-- Added kernel updates on DRC
-- Added BL/CP updates on DRC}
+lastVersion{29}
+changelog{- Rebased over N950FXXSEDTL1
+- Security patch 01/01/2021
+- Updated DeluxeKernel_v16.7
+- Updated TWRP to v3.5.0
+- Updated Magisk v21.4
+- Updated DRC to v2.1.9
+- Fixed typo on installer causing wrong AROMA options}

@@ -1,16 +1,8 @@
-lastVersion{28.1}
-changelog{- Actualizado DeluxeKernel_v16.4
-- Actualizado BusyBox 1.31.1
-- Actualizado Magisk Manager 8.0.3
-- Arreglado facewidget de clima
-- Arreglado Magisk en instalaciones limpias
-- Arreglado tamaño de velocímetro de red
-- Arreglado tamaño de texto de operadora
-- Arreglado reseteo/restauración en DRC
-- Arreglada opción de carga rápida
-- Arreglado FC en DRC al usar RTL
-- Correciones en DRC (traducciones/FCs)
-- Actualizado DRC 2.1.5
-- Añadidas actualizaciones de ROM en DRC
-- Añadidas actualizaciones de kernel en DRC
-- Añadidas actualizaciones de BL/CP en DRC}
+lastVersion{29}
+changelog{- Rebasada sobre N950FXXSEDTL1
+- Parche de seguridad 01/01/2021
+- Actualizado DeluxeKernel_v16.7
+- Actualizado TWRP v3.5.0
+- Actualizado Magisk v21.4
+- Actualizado DRC v2.1.9
+- Arreglado error en la configuración de AROMA}
